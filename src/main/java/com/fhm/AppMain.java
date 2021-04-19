@@ -1,4 +1,4 @@
-package com.fhm.filehistnew;
+package com.fhm;
 
 public class AppMain {
     public static void main(String[] args) {

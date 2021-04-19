@@ -1,4 +1,4 @@
-package com.fhm.filehistnew;
+package com.fhm;
 
 public class ValidationException extends RuntimeException{
     public ValidationException(String message) {
